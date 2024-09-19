@@ -22,7 +22,7 @@ export default function ProjectCards() {
             </p>
           </div>
           <div className="project-info-photo">
-            <img src="/img/HOF.png" alt="Holm Outdoor Fitness" />
+            <img src="./src/assets/HOF.png" alt="Holm Outdoor Fitness" />
           </div>
         </div>
         <div className="project-info">
@@ -41,7 +41,7 @@ export default function ProjectCards() {
             </p>
           </div>
           <div className="project-info-photo">
-            <img src="/img/IS.png" alt="Interactive storytelling" />
+            <img src="./src/assets/IS.png" alt="Interactive storytelling" />
           </div>
         </div>
         <div className="project-info">
@@ -62,7 +62,7 @@ export default function ProjectCards() {
             </p>
           </div>
           <div className="project-info-photo">
-            <img src="/img/NIPPON.png" alt="Nippon" />
+            <img src="./src/assets/NIPPON.png" alt="Nippon" />
           </div>
         </div>
         <div className="project-info">
@@ -78,7 +78,7 @@ export default function ProjectCards() {
             </p>
           </div>
           <div className="project-info-photo">
-            <img src="/img/MONK.png" alt="Monk" />
+            <img src="./src/assets/MONK.png" alt="Monk" />
           </div>
         </div>
       </div>

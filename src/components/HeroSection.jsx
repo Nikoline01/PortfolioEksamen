@@ -12,7 +12,7 @@ export default function HomePage() {
         loop
         onClick={handleVideoClick}
       >
-        <source src="/video/Gradient-kopi.mp4" type="video/mp4" />
+        <source src="./src/assets/Gradient-kopi.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
@@ -20,7 +20,7 @@ export default function HomePage() {
         <h1 className="video-title">PORTFOLIO</h1>
         <p className="video-title-two">MULTIMEDIADESIGN</p>
         <div className="pil">
-          <img src="/img/pil.png"></img>
+          <img src="./src/assets/pil.png"></img>
         </div>
       </div>
     </div>
